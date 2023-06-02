@@ -1,0 +1,21 @@
+1- 
+Na linguagem interpretada, é necessário um programa (interpretador) para que o código seja lido e executado,
+ja que a máquina não é capaz de fazer essa ação. Já a linguagem compilada, não requer um programa para
+traduzir e ler o código, pois a própria máquina faz esta ação.
+
+2- 
+ _Django: É um framework de alto nivel, gratuito, open source e baseado em python, tem a finalidade de 
+desenvolvimento web.
+
+ _Flask: É um micro-framework que tem o objetivo de desenvolvimentos simples e básicos.
+na criação de sites básicos, ele possui simplicidade, rapidez no desenvolvimento e aplcação robusta.
+
+ _Web2py: Escrito em Python, é um framework web de código aberto para desenvolvimento ágil de segurança
+aplicativos da Web orientados a banco de dados.
+
+ _CherryPy: Orientada a objetos, CherryPy é um framework web que utiliza python como linguagem, é projetado
+para desenvolvimento ágil de aplicaçõe web através do empacotamento do protocolo HTTP.
+
+ _Bottle: É um microframework web que utiliza a linguagem python. Foi criado com o intuito de ser
+rápido, simples e leve e é distribuido com um único módulo de arquivo sem dependências além da
+Biblioteca Padrão do Python.
